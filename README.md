@@ -10,14 +10,14 @@ https://tardis-11.github.io/Geo_UNI_Projects/Hausarbeit_GDE/
 This Project received a Grade of **1,0** (highest possible grade in German colleges)
 
 ## 2. 15min_stadt_fuer_alle
-This Project was part of the course "GIS-Seminar: Climate Action and Sustainable Cities" wherein we learned how to use QGIS to answer and deal with multiple geographic questions regarding primarily mobility and climate change mapping.
+This Project was part of the 3rd semester course "GIS-Seminar: Climate Action and Sustainable Cities" wherein we learned how to use QGIS to answer and deal with multiple geographic questions regarding primarily mobility and climate change mapping.
 
 Our project was to see the walkability of the district (Stadtteil) Mannheim-Neckarau is for its senior residents. We dealt with our Question as follows:
 
-calculate how far seniors are truly willing to walk for different points of interest (POIs)
-analyse the accessibilty of different POIs from each house and how far they are with regard to time.
-analysing which street-networks are unbroken and of adequate quality to ensure that seniors with mobility issues still make it to their POI.
-Mixing Accessibilty maps 2 and 3.
+1. calculate how far seniors are truly willing to walk for different points of interest (POIs)
+2. analyse the accessibilty of different POIs from each house and how far they are with regard to time.
+3. analysing which street-networks are unbroken and of adequate quality to ensure that seniors with mobility issues still make it to their POI.
+4. Mixing Accessibilty maps 2 and 3.
 
 The Link to the paper is to be found here:
 https://tardis-11.github.io/Geo_UNI_Projects/15min_stadt_fuer_alle/
@@ -25,7 +25,7 @@ https://tardis-11.github.io/Geo_UNI_Projects/15min_stadt_fuer_alle/
 This Project received a grade of **1,0**
 
 ## 3. Randvoll...?
-This Directory is for a project part of the course "Exercise: Introduction to Remote Sensing" (Übung) from my 3rd Semester, wherein we calculated (using supervised classification methods) the growth of the urban area build-up of the city Kathmandu, Nepal over the last 20 years to calculate how it will grow in the following 20 years. We used ENVI 6.2 as well as QGIS for this project.
+This Directory is for a project part of the course "Exercise: Introduction to Remote Sensing" (Übung: Einführung in die Fernerkundung) from my 3rd Semester, wherein we calculated (using supervised classification methods) the growth of the urban area build-up of the city Kathmandu, Nepal over the last 20 years to calculate how it will grow in the following 20 years. We used ENVI 6.2 as well as QGIS for this project.
 
 The Link to the paper is available here: 
 https://tardis-11.github.io/Geo_UNI_Projects/Randvoll...%3F/
