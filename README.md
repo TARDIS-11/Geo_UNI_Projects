@@ -17,6 +17,9 @@ calculate how far seniors are truly willing to walk for different points of inte
 analyse the accessibilty of different POIs from each house and how far they are with regard to time.
 analysing which street-networks are unbroken and of adequate quality to ensure that seniors with mobility issues still make it to their POI.
 Mixing Accessibilty maps 2 and 3.
+
+The Link to the paper is https://tardis-11.github.io/Geo_UNI_Projects/15min_stadt_fuer_alle/
+
 This Project received a grade of 1,0
 
 ## 4. GLP_STADT_KOETHEN
