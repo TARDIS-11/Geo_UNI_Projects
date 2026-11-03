@@ -6,7 +6,7 @@ This project was part of the 1st semester introductory course "Exercise: Geo-Dat
 
 The Link to the interactive map is https://tardis-11.github.io/Geo_UNI_Projects/Hausarbeit_GDE/
 
-*This Project received a Grade of 1,0 (highest possible grade in German colleges)*
+This Project received a Grade of **1,0** (highest possible grade in German colleges)
 
 ## 2. 
 
