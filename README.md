@@ -8,7 +8,16 @@ The Link to the interactive map is https://tardis-11.github.io/Geo_UNI_Projects/
 
 This Project received a Grade of **1,0** (highest possible grade in German colleges)
 
-## 2. 
+## 2. 15min_stadt_fuer_alle
+This Project was part of the course "GIS-Seminar: Climate Action and Sustainable Cities" wherein we learned how to use QGIS to answer and deal with multiple geographic questions regarding primarily mobility and climate change mapping.
+
+Our project was to see the walkability of the district (Stadtteil) Mannheim-Neckarau is for its senior residents. We dealt with our Question as follows:
+
+calculate how far seniors are truly willing to walk for different points of interest (POIs)
+analyse the accessibilty of different POIs from each house and how far they are with regard to time.
+analysing which street-networks are unbroken and of adequate quality to ensure that seniors with mobility issues still make it to their POI.
+Mixing Accessibilty maps 2 and 3.
+This Project received a grade of 1,0
 
 ## 4. GLP_STADT_KOETHEN
 This directory is for a project out of the 4th Semester where a bunch of students went to the City of Köthen in Saxony-Anhalt to see how a mid sized city in Germany is planned and how a city with a large, aging population is dealing with the consequences of demographic change. We conducted Street-Side Interviews of many residents of the city within the city centre to understand what can be done to improve the city. This directory shows these results. This directory has the raw data from the interviews as well as a cleaned data-set and finally an HTML document with my statistical analysis of the interview.
